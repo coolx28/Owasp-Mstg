@@ -131,8 +131,8 @@ Dynamic analysis of the traffic exchanged between client and server can be perfo
 * Configuring an iOS Device to work with Burp - https://support.portswigger.net/customer/portal/articles/1841108-configuring-an-ios-device-to-work-with-burp
 
 In case another (proprietary) protocol is used in a mobile app that is not HTTP, the following tools can be used to try to intercept or analyze the traffic:
-* Mallory - https://github.com/intrepidusgroup/mallory
-* Wireshark - https://www.wireshark.org/
+* [Mallory](https://github.com/intrepidusgroup/mallory)
+* [Wireshark](https://www.wireshark.org/)
 
 #### Input Fuzzing
 
@@ -145,7 +145,7 @@ Fuzzing, is a method for testing software input validation by feeding it intenti
 * Test case delivery
 * Crash monitoring
 
-Inout fuzzing will not be discussed in great detail in this guide. Refer to the [OWASP Fuzzing Guide](https://www.owasp.org/index.php/Fuzzing) for more information.
+Input fuzzing will not be discussed in great detail in this guide. Refer to the [OWASP Fuzzing Guide](https://www.owasp.org/index.php/Fuzzing) for more information.
 
 Note: Fuzzing only detects software bugs. Classifying this issue as a security flaw requires further analysis by the researcher.
 

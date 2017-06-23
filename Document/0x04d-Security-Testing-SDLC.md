@@ -137,20 +137,10 @@ Todo: Automating security tools in Jenkins,...
 
 ### References
 
-* [1] OWASP Mobile Application Security Verification Standard - https://www.owasp.org/images/f/f2/OWASP_Mobile_AppSec_Verification_Standard_v0.9.2.pdf
+* [16] The evolution of DevOps: Gene Kim on getting to continuous delivery - https://techbeacon.com/evolution-devops-new-thinking-gene-kim
 * [2] The Importance of Manual Secure Code Review - https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-importance-of-manual-secure-code-review
 * [3] OWASP Code Review Introduction - https://www.owasp.org/index.php/Code_Review_Introduction
-* [4] Radare2 - https://github.com/radare/radare2
-* [5] Angr - http://angr.io
-* [6] https://triton.quarkslab.com/files/csaw2016-sos-rthomas-jsalwan.pdf
-* [7] HP DevInspect - https://saas.hpe.com/en-us/software/agile-secure-code-development
-* [8] Codiscope SecureAssist - https://codiscope.com/products/secureassist/
-* [9] Crawling Code - https://www.owasp.org/index.php/Crawling_Code
-* [10] Mobile internet usage surpasses desktop usage for the first time in history - http://bgr.com/2016/11/02/internet-usage-desktop-vs-mobile
-* [12] Worldwide Smartphone OS Market Share - http://www.idc.com/promo/smartphone-market-share/os
 * [13] Android Design Principles - https://developer.android.com/design/get-started/principles.html
 * [14] Official (ISC)2 Guide to the CSSLP (ISC2 Press), Mano Paul - https://www.amazon.com/Official-Guide-CSSLP-Second-Press/dp/1466571276/
 * [15] Software Security: Building Security In (Addison-Wesley Professional), Gary McGraw - https://www.amazon.com/Software-Security-Building-Gary-McGraw/dp/0321356705/
-* [16] The evolution of DevOps: Gene Kim on getting to continuous delivery - https://techbeacon.com/evolution-devops-new-thinking-gene-kim
-* [17] Cycript fork powered by Frida - https://github.com/nowsecure/frida-cycript
-* [18] Cycript on steroids: Pumping up portability and performance with Frida - https://www.reddit.com/r/ReverseEngineering/comments/50uweq/cycript_on_steroids_pumping_up_portability_and/
+
